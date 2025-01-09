@@ -1,4 +1,3 @@
-
 $(document).ready(function() {
     var colors = [ '#33c1ff', '#28a745']; // Colors for each string
     var currentIndex = 0;
